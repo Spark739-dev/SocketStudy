@@ -80,8 +80,10 @@ Socket programming finds applications in various domains, including web developm
 
 ## OUTPUT:
 ## CLIENT
-![image](https://github.com/user-attachments/assets/a8b7e5be-7e1d-4f2e-8334-724a247ec382)
+![image](https://github.com/user-attachments/assets/708c5f99-b9dd-4380-aad1-bfa52a88cd7a)
+
 ## SERVER
-![image](https://github.com/user-attachments/assets/84608dd0-7734-4bfd-b3b0-74498a61646f)
+![image](https://github.com/user-attachments/assets/40fa391a-769c-42a8-b5a1-ce08787c044b)
+
 ## Result:
 Thus the study of Socket Programming Completed Successfully
